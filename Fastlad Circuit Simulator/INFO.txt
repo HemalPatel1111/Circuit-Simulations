@@ -1,0 +1,3 @@
+Circuit Simulator : 
+	web-site : https://falstad.com/circuit/
+	mode : ONLINE
